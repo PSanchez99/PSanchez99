@@ -1,12 +1,11 @@
 # Hi, I'm Estiven 👋
 
-Student and developer. I like building apps people actually use: web apps, Android apps and desktop apps.
+Student and developer. I like building apps people actually use: web apps, Android apps and iOS apps.
 
 ## Tech I work with
 
 - **Web:** Next.js · React · TypeScript · Tailwind CSS · Supabase · Vercel / Netlify
-- **Mobile:** Android · Kotlin
-- **Desktop:** C# · .NET · Visual Studio
+- **Mobile:** Android · Kotlin · iOS · Swift
 - **Backend & data:** PHP · MySQL · SQL · PostgreSQL
 
 ## Featured projects
